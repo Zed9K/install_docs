@@ -10,6 +10,7 @@
 * flash gapps ( optional )
 * Now in recovery go to factory reset and confirm the reset
 * Reboot to system
+
 ```
 adb sideload crDroid.zip
 ```
@@ -21,6 +22,7 @@ adb sideload crDroid.zip
 * Boot to recovery
 * Choose apply update and Apply from ADB
 * Now install crDroid zip via sideload and reboot
+
 ```
 adb sideload crDroid.zip
 ```
